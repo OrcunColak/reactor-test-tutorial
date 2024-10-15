@@ -6,7 +6,7 @@ import reactor.core.publisher.Flux;
 import reactor.test.StepVerifier;
 
 @Slf4j
-class StepVerifierExpectTest {
+class StepVerifierExpectNextTest {
 
     @Test
     public void testFlux() {
